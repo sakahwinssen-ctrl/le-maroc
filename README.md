@@ -15,7 +15,8 @@ Le site est hébergé via **GitHub Pages** :
 
 Le site respecte les standards essentiels du Web :
 
-- ✔️ **✔️ Validation W3C (CSS,Html)** : [Voir le rapport de validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsakahwinssen-ctrl.github.io%2Fle-maroc%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
+- ✔️ **✔️ Validation W3C (CSS,Html)** : ✔️ Validation W3C (CSS) : [Voir le rapport de validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsakahwinssen-ctrl.github.io%2FSAE14%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
+
  
 - ✔️ ** Norme WCAG 2.0 AA ** : respect des bonnes pratiques d’accessibilité (structure claire, contrastes lisibles, textes alternatifs, navigation accessible).
 (accessibilité renforcée)  
