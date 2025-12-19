@@ -25,7 +25,7 @@ Le site respecte les standards essentiels du Web :
 
 ## 📊 Gestion de Projet
 
-- 👉 **Trello :** *ajoute ici ton lien Trello*  
+- 👉 **Trello : https://trello.com/b/IKXXwEaq/le-maroc-sae14
 - 📌 **WBS :** disponible dans `/Gestion de projet/WBS.png`  
 - 📌 **Diagramme de Gantt :** disponible dans `/Gestion de projet/gantt.png`  
 - 🧠 **Carte mentale :** `/Gestion de projet/carte_mentale.png`
